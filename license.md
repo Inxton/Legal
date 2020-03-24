@@ -330,5 +330,6 @@ REVISION CLAUSE
 MTS reserves the right to revise these License Terms by updating them on its web site, or by notifying you by e-mail. You are advised to check these License Terms periodically for notices concerning revisions. Your continued use of INXTON Software shall be deemed to constitute acceptance of any revised version of these License Terms. 
 
  
+----------------------------------------------------------------------------------
 
  
