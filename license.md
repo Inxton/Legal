@@ -1,3 +1,6 @@
+
+www.inxton.com/license
+
 LICENCE AGREEMENT  
 
 concluded pursuant to Section 65 of Act No. 185/2015 Coll. (Copyright Act)
